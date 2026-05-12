@@ -1,4 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyO6xZCgWwiiN-Ku52-PJXl1MweGy0owU_NyiuacD7F7PIsx0YNzOb8vLmDHg5lbB6p1w/exec";
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbx9D0SvL2BNZNQTm6Hx5z0UbZMJ-bhlNkQbt0eaBNu6jzcUfaBPxVl6pp5WGu-MFIF7/exec';
 
 // Logika Pindah Tab
 function openTab(tabName) {
